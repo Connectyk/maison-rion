@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maisonrion21.fr/sitemap.xml
